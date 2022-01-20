@@ -1,0 +1,14 @@
+C:\Users\רפפורט\Desktop\ReadFrmoFile\ReadFrmoFile\bin\Debug\ReadFrmoFile.exe.config
+C:\Users\רפפורט\Desktop\ReadFrmoFile\ReadFrmoFile\bin\Debug\ReadFrmoFile.exe
+C:\Users\רפפורט\Desktop\ReadFrmoFile\ReadFrmoFile\bin\Debug\ReadFrmoFile.pdb
+C:\Users\רפפורט\Desktop\ReadFrmoFile\ReadFrmoFile\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\רפפורט\Desktop\ReadFrmoFile\ReadFrmoFile\obj\Debug\ReadFrmoFile.exe
+C:\Users\רפפורט\Desktop\ReadFrmoFile\ReadFrmoFile\obj\Debug\ReadFrmoFile.pdb
+C:\Users\רפפורט\Desktop\ReadFrmoFile\ReadFrmoFile\obj\Debug\First.csprojAssemblyReference.cache
+C:\Users\רפפורט\Desktop\ReadFromFile\ReadFrmoFile\bin\Debug\ReadFrmoFile.exe.config
+C:\Users\רפפורט\Desktop\ReadFromFile\ReadFrmoFile\bin\Debug\ReadFrmoFile.exe
+C:\Users\רפפורט\Desktop\ReadFromFile\ReadFrmoFile\bin\Debug\ReadFrmoFile.pdb
+C:\Users\רפפורט\Desktop\ReadFromFile\ReadFrmoFile\obj\Debug\First.csprojAssemblyReference.cache
+C:\Users\רפפורט\Desktop\ReadFromFile\ReadFrmoFile\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\רפפורט\Desktop\ReadFromFile\ReadFrmoFile\obj\Debug\ReadFrmoFile.exe
+C:\Users\רפפורט\Desktop\ReadFromFile\ReadFrmoFile\obj\Debug\ReadFrmoFile.pdb

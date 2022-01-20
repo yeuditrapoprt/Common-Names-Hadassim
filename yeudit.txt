@@ -1,0 +1,16 @@
+Jacob 15
+Yaakov 12
+Yaako 1
+Tomer 13
+Tommer 4
+Sara 19
+Sarah 23
+Shlomo 5
+Synonyms
+Jacob,Yaakov
+Yaako,Jacob
+Yaako,Jacob
+Yaakov,Yaacov
+Tomer,Tommer
+Sara,Sarah
+Shalom,Shlomo
